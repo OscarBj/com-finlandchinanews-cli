@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f85695027cdd4ba5a263dc0b6d54b8f2",
+    "revision": "8f41e1396033baca6dd42247d9deb8ca",
     "url": "/com-finlandchinanews-cli/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/com-finlandchinanews-cli/static/js/2.c47fc8e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f86935785fce23a3915",
-    "url": "/com-finlandchinanews-cli/static/js/main.887062d8.chunk.js"
+    "revision": "80fb07a45c9172823be4",
+    "url": "/com-finlandchinanews-cli/static/js/main.29700a33.chunk.js"
   },
   {
     "revision": "da779b82a6f14858e26a",
