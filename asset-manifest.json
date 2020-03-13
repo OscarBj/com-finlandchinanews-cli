@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/com-finlandchinanews-cli/static/js/main.7d8056df.chunk.js",
-    "main.js.map": "/com-finlandchinanews-cli/static/js/main.7d8056df.chunk.js.map",
+    "main.js": "/com-finlandchinanews-cli/static/js/main.0ddb64e5.chunk.js",
+    "main.js.map": "/com-finlandchinanews-cli/static/js/main.0ddb64e5.chunk.js.map",
     "runtime-main.js": "/com-finlandchinanews-cli/static/js/runtime-main.146d8daf.js",
     "runtime-main.js.map": "/com-finlandchinanews-cli/static/js/runtime-main.146d8daf.js.map",
     "static/css/2.7ad897a5.chunk.css": "/com-finlandchinanews-cli/static/css/2.7ad897a5.chunk.css",
-    "static/js/2.c47fc8e0.chunk.js": "/com-finlandchinanews-cli/static/js/2.c47fc8e0.chunk.js",
-    "static/js/2.c47fc8e0.chunk.js.map": "/com-finlandchinanews-cli/static/js/2.c47fc8e0.chunk.js.map",
+    "static/js/2.76a19a5a.chunk.js": "/com-finlandchinanews-cli/static/js/2.76a19a5a.chunk.js",
+    "static/js/2.76a19a5a.chunk.js.map": "/com-finlandchinanews-cli/static/js/2.76a19a5a.chunk.js.map",
     "index.html": "/com-finlandchinanews-cli/index.html",
-    "precache-manifest.fffa8aedebd1d8670f6f39a182bae700.js": "/com-finlandchinanews-cli/precache-manifest.fffa8aedebd1d8670f6f39a182bae700.js",
+    "precache-manifest.540685747b6bfaa3f21cc12d0761ba22.js": "/com-finlandchinanews-cli/precache-manifest.540685747b6bfaa3f21cc12d0761ba22.js",
     "service-worker.js": "/com-finlandchinanews-cli/service-worker.js",
     "static/css/2.7ad897a5.chunk.css.map": "/com-finlandchinanews-cli/static/css/2.7ad897a5.chunk.css.map",
-    "static/js/2.c47fc8e0.chunk.js.LICENSE.txt": "/com-finlandchinanews-cli/static/js/2.c47fc8e0.chunk.js.LICENSE.txt"
+    "static/js/2.76a19a5a.chunk.js.LICENSE.txt": "/com-finlandchinanews-cli/static/js/2.76a19a5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.146d8daf.js",
     "static/css/2.7ad897a5.chunk.css",
-    "static/js/2.c47fc8e0.chunk.js",
-    "static/js/main.7d8056df.chunk.js"
+    "static/js/2.76a19a5a.chunk.js",
+    "static/js/main.0ddb64e5.chunk.js"
   ]
 }
