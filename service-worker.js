@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/com-finlandchinanews-cli/precache-manifest.63d4f11ea447f79d57ea319bbdf15b02.js"
+  "/com-finlandchinanews-cli/precache-manifest.e0d7572fc976739dd62bf4fb1f32be38.js"
 );
 
 self.addEventListener('message', (event) => {
